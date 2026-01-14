@@ -115,9 +115,33 @@ Final model selected: **Logistic Regression**
 Reason: Better generalization and fewer false positives.
 
 ---
-##How to run this locally : 
+## How to run this locally : 
 1.Clone the repository : 
 
-```git clone https://github.com/Santhu7718/text-classification-system.git
-cd text-classification-system```
+```
+git clone https://github.com/Santhu7718/text-classification-system.git
+cd text-classification-system
+```
 
+## 2️⃣ Create and Activate Virtual Environment
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+## 3️⃣ Install Dependencies
+```
+pip install -r requirements.txt
+```
+
+## 4️⃣ Run the Streamlit App
+```
+python -m streamlit run App.py
+```
+## 🛠 Technologies Used
+Python
+Pandas
+NumPy
+NLTK
+Scikit-learn
+Streamlit
+Git & GitHub
