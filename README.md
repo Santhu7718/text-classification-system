@@ -137,11 +137,11 @@ pip install -r requirements.txt
 ```
 python -m streamlit run App.py
 ```
-## 🛠 Technologies Used
-Python
-Pandas
-NumPy
-NLTK
-Scikit-learn
-Streamlit
-Git & GitHub
+### 🛠 Technologies Used
+- Python
+- Pandas
+- NumPy
+- NLTK
+- Scikit-learn
+-  Streamlit
+- Git & GitHub
