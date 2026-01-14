@@ -146,6 +146,6 @@ python -m streamlit run App.py
 -  Streamlit
 - Git & GitHub
 
-✅ Conclusion
+## ✅ Conclusion
 This project demonstrates a complete machine learning pipeline from preprocessing to deployment.
 It reflects real-world ML engineering practices and provides a solid base for future enhancements.
