@@ -115,5 +115,9 @@ Final model selected: **Logistic Regression**
 Reason: Better generalization and fewer false positives.
 
 ---
+##How to run this locally : 
+1.Clone the repository : 
 
+```git clone https://github.com/Santhu7718/text-classification-system.git
+cd text-classification-system```
 
